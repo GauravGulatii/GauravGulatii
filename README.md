@@ -17,8 +17,11 @@
   <img align="right" height="160" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966" />
   
   <p align="center">
-    I'm Gaurav Gulati, a versatile Full Stack and Back-End Developer currently pursuing my B.Sc. in Computer Science at the University of Calgary. 
-    I specialize in developing robust, scalable software solutions with a focus on clean code, efficient design patterns, and modern web technologies. 
+    I am a Full Stack Developer with a passion for building clean, reliable software solutions. Currently finishing my B.Sc. in Computer Science at the University of Calgary (expected Dec 2025), I have had the opportunity to work on a range of projects, from designing secure back end systems and APIs to developing great front end interfaces.
+
+During my internships at Absorb Software and Alberta Health Services, I sharpened my skills in software quality assurance, API development, and automation testing. These experiences have taught me the value of good coding practices and effective collaboration in fast paced, agile environments.
+
+I enjoy diving into challenging problems and continuously learning new technologies, whether it’s through hands on coding, exploring emerging tools, or working with a team that values innovation. If you are interested in discussing software development or exploring potential collaborations, feel free to reach out. 
     <br> 🌱 I'm deepening my expertise in scalable software architecture, containerization, and orchestration technologies like Docker and Kubernetes. 
     <br> 📫 Reach out to me at <a href="mailto:gaurav.gulati@ucalgary.ca" style="color: rgb(250, 111, 50);">gaurav.gulati@ucalgary.ca</a> 
     <br> ⚡ Fun Fact: I'm always eager to explore innovative solutions to complex challenges!
