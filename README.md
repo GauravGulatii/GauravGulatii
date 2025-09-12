@@ -14,7 +14,6 @@
 
 <div align="center">
   <h2 align="center">About Me</h2>
-  <img align="right" height="160" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966" />
   
   <p align="center">
     I am a Full Stack Developer with a passion for building clean, reliable software solutions. Currently finishing my B.Sc. in Computer Science at the University of Calgary (expected Dec 2025), I have had the opportunity to work on a range of projects, from designing secure back end systems and APIs to developing great front end interfaces.
