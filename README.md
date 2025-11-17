@@ -16,16 +16,18 @@
   <h2 align="center">About Me</h2>
   
   <p align="center">
-    I am a Full Stack Developer with a passion for building clean, reliable software solutions. Currently finishing my B.Sc. in Computer Science at the University of Calgary (expected Dec 2025), I have had the opportunity to work on a range of projects, from designing secure back end systems and APIs to developing great front end interfaces.
-
-During my internships at Absorb Software and Alberta Health Services, I sharpened my skills in software quality assurance, API development, and automation testing. These experiences have taught me the value of good coding practices and effective collaboration in fast paced, agile environments.
-
-I enjoy diving into challenging problems and continuously learning new technologies, whether it’s through hands on coding, exploring emerging tools, or working with a team that values innovation. If you are interested in discussing software development or exploring potential collaborations, feel free to reach out. 
-    <br> 🌱 I'm deepening my expertise in scalable software architecture, containerization, and orchestration technologies like Docker and Kubernetes. 
-    <br> 📫 Reach out to me at <a href="mailto:gaurav.gulati@ucalgary.ca" style="color: rgb(250, 111, 50);">gaurav.gulati@ucalgary.ca</a> 
-    <br> ⚡ Fun Fact: I'm always eager to explore innovative solutions to complex challenges!
+    I'm a <strong>Backend Software Developer</strong> who enjoys building clean APIs, working with relational databases, and improving development workflows through automation and CI/CD. I mainly work with <strong>Node.js, TypeScript, Express, and PostgreSQL</strong>, and I'm focused on writing code that is scalable, predictable, and easy to maintain.
+    <br><br>
+    I’m currently completing my B.Sc. in Computer Science at the University of Calgary (Dec 2025). During my internship at <strong>Absorb Software</strong>, I worked with development and DevOps teams to improve backend testing, debug API behavior, and optimize CI pipelines. Those experiences helped me understand how production systems behave beyond just writing code — logs, schema decisions, performance bottlenecks, and reliability.
+    <br><br>
+    On the project side, I enjoy solving real engineering problems, such as handling concurrency in booking systems, transactional logic, authentication flows, and structured error handling. A recent example: in my project <strong>SkiRide</strong>, I fixed a race condition by implementing database-level locking so only the first valid write can claim a seat.
+    <br><br>
+    🌱 Currently learning: distributed system concepts, AWS fundamentals, and backend performance techniques.<br>
+    📫 Connect with me: <a href="mailto:gaurav.gulati@ucalgary.ca" style="color: rgb(250, 111, 50);">gaurav.gulati@ucalgary.ca</a><br>
+    ⚡ Fun thing about me: I love turning messy problems into clean, reliable solutions.
   </p>
 </div>
+
 
 <h2 align="center">Skills</h2>
 <p align="center">
