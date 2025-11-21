@@ -62,10 +62,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/gauravgulatii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://gauravgulati.my.canva.site/overview" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio">
-  </a>
 </p>
 
 <p align="center">Feel free to reach out for collaborations or to discuss exciting projects!</p>
